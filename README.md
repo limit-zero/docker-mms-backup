@@ -1,4 +1,4 @@
-# docker-mms-backup
+# MMS Backup Agent
 Minimal docker container for running the MMS/MongoDB Cloud Manager Backup Agent
 
 ## Usage
